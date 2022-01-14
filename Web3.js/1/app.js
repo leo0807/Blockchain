@@ -7,7 +7,9 @@ const customProvider = {
   }
 }
 const provider = Web3.providers.HttpProvider('http://localhost:8081');
-const web3 = new Web3(customProvider);
+// const web3 = new Web3(customProvider);
+const web3 = new Web3(window.web3.currentProvider);
+
 
 web3.eth.getBlockNumber()
   .then(() => {
