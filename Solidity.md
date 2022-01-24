@@ -22,3 +22,12 @@
 3. 使用block，tx，msg等State咨询（msg.sig, msg.data除外）
 4. 呼叫未被标记为pure的function
 5. 使用包含了特定的opcodes的组合语言
+
+- 形态的种类
+1. Value Types
+  - Boolean
+  - Integer
+  - Literals (Address/Integer/String/Unicode/Hexadecimal Literals)
+  - ...
+2. References Types
+3. Mapping Types
