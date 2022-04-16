@@ -1,6 +1,5 @@
 # Solidity Syntax
 - Web3.js - Read the Docs https://web3js.readthedocs.io
-
 ## Function 
 - State Mutability
 1. ```Pure```: 代表不读写State;
