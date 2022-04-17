@@ -31,3 +31,7 @@
   - ...
 2. References Types
 3. Mapping Types
+
+- Solidity — Solidity 0.8.13 documentation
+  - https://docs.soliditylang.org
+
