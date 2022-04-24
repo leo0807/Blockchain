@@ -42,7 +42,6 @@
 3. Mapping Types
 
 - Solidity — Solidity 0.8.13 documentation
-
   - https://docs.soliditylang.org
 - 区块链学习路线
   - https://github.com/itheima1/BlockChain
